@@ -14,9 +14,3 @@ The program successfully captured packets and displayed useful information inclu
 
 **Conclusion:**
 This task improved my understanding of how data flows through a network and how packet sniffing works in cybersecurity.
-
-
-
----
-
-If you want, I can also turn this into a clean PDF format for submission 👍
